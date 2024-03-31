@@ -1,0 +1,81 @@
+@font-face {
+    font-family: TacOne;
+    src: url('assets/fonts/TacOne-Regular.ttf');
+}
+
+@font-face {
+    font-family: Foldit;
+    src: url('assets/fonts/Foldit-Regular.ttf');
+}
+
+body {
+    background: rgb(24, 24, 24);
+    color: black;
+    text-align: center;
+}
+
+#main-title-link {
+    text-decoration: none;
+}
+
+#main-title {
+    font-family: TacOne, serif;
+    font-size: 100px;
+    text-shadow: 2px 2px 2px 2px #fff;
+    color: #ccc;
+}
+
+#title {
+    font-family: Foldit, serif;
+    font-size: 50px;
+    text-shadow: 2px 2px 2px 2px #fff;
+}
+
+h1{
+    color: #ccc;
+}
+
+p {
+    color: #ccc;
+    text-align: center;
+    margin-top: 50px;
+    font-size: 25px;
+    font-weight: 500;
+}
+
+#container {
+    text-align: center;
+}
+
+.tile {
+    width: 100px;
+    height: 100px;
+    background-color: #eee4da;
+    border-radius: 6px;
+    font-size: 36px;
+    line-height: 100px;
+    margin: 5px;
+    float: left;
+    text-align: center;
+}
+
+#grid-container {
+    width: 420px;
+    height: 420px;
+    margin: auto;
+    /*border: 2px solid #bbada0;*/
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-template-rows: repeat(4, 1fr);
+}
+
+.restart {
+    background-color: red;
+    color: white;
+    font-weight: 400;
+    border: none;
+    border-radius: 60px;
+    font-size: 15px;
+    padding: 8px 15px;
+    cursor: pointer;
+}

@@ -1,0 +1,44 @@
+@font-face {
+    font-family: TacOne;
+    src: url('assets/fonts/TacOne-Regular.ttf');
+}
+
+@font-face {
+    font-family: Foldit;
+    src: url('assets/fonts/Foldit-Regular.ttf');
+}
+
+body {
+    background: rgb(24, 24, 24);
+    color: #ccc;
+    text-align: center;
+}
+
+#main-title-link {
+    text-decoration: none;
+}
+
+#main-title {
+    font-family: TacOne, serif;
+    font-size: 100px;
+    text-shadow: 2px 2px 2px 2px #fff;
+    color: #ccc;
+}
+
+#title {
+    font-family: Foldit, serif;
+    font-size: 50px;
+    text-shadow: 2px 2px 2px 2px #fff;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+}
+
+#grid TR TD{
+    border: 1px solid #ccc;
+    width: 50px;
+    height: 50px;
+    color: black;
+}
