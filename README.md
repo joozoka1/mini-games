@@ -7,7 +7,5 @@ I made them to learn HTML, CSS and JS, so they're not perfect, but fun to play. 
 - [x] [2048] - [Play](https://krasnal.home.staszic.waw.pl/mini-games/2048/)
 - [x] [Minesweeper] - [Play](https://krasnal.home.staszic.waw.pl/mini-games/minesweeper/)
 
-# Effect
-[here](https://krasnal.home.staszic.waw.pl/)
-
+# [Effect](https://krasnal.home.staszic.waw.pl/)
 Unfortunately, the page is not working, cause admin of my school network broke it.
