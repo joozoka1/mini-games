@@ -6,7 +6,6 @@ class Grid {
         this.numMines = numMines;
         this.rows = rows;
         this.cols = cols;
-        // this.numCorrect = 0;
         this.initGrid();
     }
 
