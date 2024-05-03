@@ -8,4 +8,3 @@ I made them to learn HTML, CSS and JS, so they're not perfect, but fun to play. 
 - [x] [Minesweeper] - [Play](https://krasnal.home.staszic.waw.pl/mini-games/minesweeper/)
 
 # [Effect](https://krasnal.home.staszic.waw.pl/)
-Unfortunately, the page is not working, cause admin of my school network broke it.
