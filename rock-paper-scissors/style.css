@@ -82,3 +82,11 @@ body {
 p {
     margin-top: 50px;
 }
+
+a {
+    color: #ccc;
+}
+
+#information-bottom {
+    margin-top: 20px;
+}
