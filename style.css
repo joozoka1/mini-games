@@ -12,6 +12,8 @@ body {
     background: rgb(24, 24, 24);
     color: #ccc;
     text-align: center;
+    align-items: center;
+    justify-content: center;
 }
 
 #main-title {
@@ -36,4 +38,9 @@ body {
 .link {
     display: inline-block;
     margin-right: 50px;
+}
+
+#links {
+    display: flex;
+    justify-content: center;
 }
